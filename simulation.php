@@ -1,0 +1,2 @@
+<?php
+//simulation a  file
